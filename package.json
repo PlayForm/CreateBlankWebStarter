@@ -1,0 +1,15 @@
+{
+	"name": "create-blank-web-starter",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Playform/create-blank-web-starter.git"
+	},
+	"homepage": "https://github.com/Playform/create-blank-web-starter#readme",
+	"bugs": {
+		"url": "https://github.com/Playform/create-blank-web-starter/issues"
+	},
+	"author": "Nikola Hristov <nikola@playform.cloud>",
+	"license": "SEE LICENSE IN LICENSE",
+	"keywords": []
+}
