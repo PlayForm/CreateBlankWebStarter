@@ -3,7 +3,3 @@
 Create blank-web-starter for AstroJS.
 
 [create-blank-web-starter]: https://npmjs.org/blank-web-starter
-
-## License
-
-[Hippocratic License](LICENSE)
