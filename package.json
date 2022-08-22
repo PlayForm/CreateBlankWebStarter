@@ -18,11 +18,10 @@
 		"starter"
 	],
 	"scripts": {
-		"build": "esbuild --format=esm --platform=node --target=node14 --sources-content=false --minify --outdir=dist src/index.ts && tsc"
+		"build": "playform build src/index.ts"
 	},
 	"devDependencies": {
-		"@types/node": "18.7.9",
-		"esbuild": "0.15.5",
-		"typescript": "4.7.4"
+		"@playform/config": "0.0.1",
+		"@playform/scripts": "0.0.1"
 	}
 }
