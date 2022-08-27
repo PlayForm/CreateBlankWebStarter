@@ -4,7 +4,7 @@
 	"type": "module",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Playform/create-blank-web-starter.git"
+		"url": "https://github.com/Playform/create-blank-web-starter.git"
 	},
 	"homepage": "https://github.com/Playform/create-blank-web-starter#readme",
 	"bugs": {
@@ -21,7 +21,7 @@
 		"build": "playform build src/index.ts"
 	},
 	"devDependencies": {
-		"@playform/config": "0.0.2",
-		"@playform/scripts": "0.0.4"
+		"@playform/config": "0.0.3",
+		"@playform/scripts": "0.0.5"
 	}
 }
