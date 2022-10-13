@@ -20,6 +20,6 @@
 	},
 	"devDependencies": {
 		"@playform/config": "0.0.4",
-		"@playform/scripts": "0.0.6"
+		"@playform/scripts": "0.0.7"
 	}
 }
