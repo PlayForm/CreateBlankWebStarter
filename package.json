@@ -19,7 +19,7 @@
 		"build": "playform build src/index.ts"
 	},
 	"devDependencies": {
-		"@playform/config": "0.0.4",
-		"@playform/scripts": "0.0.7"
+		"@playform/config": "0.0.6",
+		"@playform/scripts": "0.0.8"
 	}
 }
