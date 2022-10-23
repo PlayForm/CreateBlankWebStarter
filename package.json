@@ -21,6 +21,6 @@
 	"devDependencies": {
 		"@lightrix/config": "0.0.5",
 		"@playform/config": "0.0.6",
-		"@playform/scripts": "0.0.9"
+		"@playform/scripts": "0.0.10"
 	}
 }
