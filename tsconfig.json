@@ -2,6 +2,6 @@
 	"compilerOptions": {
 		"outDir": "dist"
 	},
-	"extends": "@playform/config/base/ts",
+	"extends": "@lightrix/config/base/ts",
 	"include": ["src"]
 }

@@ -16,11 +16,10 @@
 		"starter"
 	],
 	"scripts": {
-		"build": "playform build src/index.ts"
+		"build": "lightrix build src/index.ts"
 	},
 	"devDependencies": {
-		"@lightrix/config": "0.0.5",
-		"@playform/config": "0.0.6",
-		"@playform/scripts": "0.0.10"
+		"@lightrix/config": "0.0.6",
+		"@lightrix/scripts": "0.0.13"
 	}
 }
