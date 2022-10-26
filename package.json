@@ -1,0 +1,25 @@
+{
+	"name": "create-blank-web-starter",
+	"version": "0.0.1",
+	"type": "module",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Playform/create-blank-web-starter.git"
+	},
+	"homepage": "https://github.com/Playform/create-blank-web-starter#readme",
+	"bugs": {
+		"url": "https://github.com/Playform/create-blank-web-starter/issues"
+	},
+	"keywords": [
+		"create-app",
+		"astro",
+		"starter"
+	],
+	"scripts": {
+		"build": "lightrix build src/index.ts"
+	},
+	"devDependencies": {
+		"@lightrix/config": "0.0.6",
+		"@lightrix/scripts": "0.0.13"
+	}
+}
