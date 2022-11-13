@@ -2,7 +2,6 @@
 	"name": "create-blank-web-starter",
 	"version": "0.0.1",
 	"type": "module",
-	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Playform/create-blank-web-starter.git"
@@ -11,6 +10,7 @@
 	"bugs": {
 		"url": "https://github.com/Playform/create-blank-web-starter/issues"
 	},
+	"license": "MIT",
 	"private": false,
 	"keywords": [
 		"create-app",
