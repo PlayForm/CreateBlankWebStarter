@@ -18,7 +18,7 @@
 		"starter"
 	],
 	"scripts": {
-		"build": "lightrix build src/index.ts"
+		"build": "lightrix build src/**/*.ts"
 	},
 	"devDependencies": {
 		"@lightrix/config": "0.0.7",
