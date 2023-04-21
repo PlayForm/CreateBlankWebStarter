@@ -23,7 +23,7 @@
 		"build": "lightrix build 'src/**/*.ts'"
 	},
 	"devDependencies": {
-		"@lightrix/config": "0.0.9",
+		"@lightrix/config": "0.0.11",
 		"@lightrix/scripts": "1.0.2"
 	},
 	"publishConfig": {
