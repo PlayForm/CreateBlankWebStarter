@@ -24,7 +24,7 @@
 	},
 	"devDependencies": {
 		"@lightrix/config": "0.0.9",
-		"@lightrix/scripts": "1.0.0"
+		"@lightrix/scripts": "1.0.2"
 	},
 	"publishConfig": {
 		"access": "public"
