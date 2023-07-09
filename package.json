@@ -14,11 +14,7 @@
 	"private": false,
 	"main": "./dist/index.js",
 	"types": "./dist/index.d.ts",
-	"keywords": [
-		"create-app",
-		"astro",
-		"starter"
-	],
+	"keywords": ["create-app", "astro", "starter"],
 	"scripts": {
 		"prepublishOnly": "lightrix build 'src/**/*.ts'"
 	},
@@ -30,4 +26,3 @@
 		"access": "public"
 	}
 }
-
