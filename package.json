@@ -13,7 +13,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Playform/create-blank-web-starter.git"
+		"url": "git+https://github.com/Playform/create-blank-web-starter.git"
 	},
 	"license": "MIT",
 	"type": "module",
