@@ -20,7 +20,7 @@
 	"main": "./dist/Index.js",
 	"types": "./dist/Index.d.ts",
 	"scripts": {
-		"prepublishOnly": "lightrix build 'src/**/*.ts'"
+		"prepublishOnly": "lightrix build 'Source/**/*.ts'"
 	},
 	"devDependencies": {
 		"@lightrix/config": "0.0.11",
