@@ -23,7 +23,7 @@
 		"prepublishOnly": "lightrix build 'Source/**/*.ts'"
 	},
 	"devDependencies": {
-		"@lightrix/configuration": "0.0.11",
+		"@lightrix/configuration": "0.0.1",
 		"@lightrix/script": "1.0.7"
 	},
 	"publishConfig": {
