@@ -22,7 +22,7 @@
 		"prepublishOnly": "Lightrix build 'Source/**/*.ts'"
 	},
 	"devDependencies": {
-		"@lightrix/script": "0.0.1"
+		"typescript-esbuild": "0.1.13"
 	},
 	"publishConfig": {
 		"access": "public"
