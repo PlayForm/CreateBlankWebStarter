@@ -15,6 +15,7 @@
 		"type": "git",
 		"url": "git+https://github.com/Playform/create-blank-web-starter.git"
 	},
+	"license": "MIT",
 	"type": "module",
 	"main": "./Target/Index.js",
 	"types": "./Target/Index.d.ts",
