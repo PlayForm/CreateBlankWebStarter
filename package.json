@@ -23,7 +23,7 @@
 		"prepublishOnly": "TypeScriptESBuild 'Source/**/*.ts'"
 	},
 	"devDependencies": {
-		"typescript-esbuild": "workspace:*"
+		"typescript-esbuild": "0.1.13"
 	},
 	"publishConfig": {
 		"access": "public"
