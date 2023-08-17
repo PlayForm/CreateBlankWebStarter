@@ -1,7 +1,7 @@
 {
 	"name": "create-blank-web-starter",
 	"version": "0.0.1",
-	"private": "false",
+	"private": false,
 	"keywords": [
 		"create-app",
 		"astro",
