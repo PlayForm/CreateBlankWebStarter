@@ -1,0 +1,10 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+devDependencies:
+  typescript-esbuild:
+    specifier: 0.2.14
+    version: link:../../../NikolaRHristov/NPM/TypeScriptESBuild
