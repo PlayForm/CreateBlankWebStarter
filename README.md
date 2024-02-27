@@ -1,4 +1,4 @@
-# [create-blank-web-starter] 📄
+# 📄 [create-blank-web-starter]
 
 Create blank-web-starter for AstroJS.
 
