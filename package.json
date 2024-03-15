@@ -2,11 +2,7 @@
 	"name": "create-blank-web-starter",
 	"version": "0.0.1",
 	"private": false,
-	"keywords": [
-		"create-app",
-		"astro",
-		"starter"
-	],
+	"keywords": ["create-app", "astro", "starter"],
 	"homepage": "https://github.com/Playform/create-blank-web-starter#readme",
 	"bugs": {
 		"url": "https://github.com/Playform/create-blank-web-starter/issues"
@@ -18,7 +14,7 @@
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Nikola R. Hristov",
-		"email": "nikola@nikolahristov.tech",
+		"email": "Nikola@Playform.Cloud",
 		"url": "https://nikolahristov.tech"
 	},
 	"type": "module",
