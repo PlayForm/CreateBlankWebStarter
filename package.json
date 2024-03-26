@@ -7,19 +7,19 @@
 		"astro",
 		"starter"
 	],
-	"homepage": "HTTPS://GitHub.Com/Playform/create-blank-web-starter#readme",
+	"homepage": "https://github.com/Playform/create-blank-web-starter#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/Playform/create-blank-web-starter/issues"
+		"url": "https://github.com/Playform/create-blank-web-starter/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+HTTPS://GitHub.Com/Playform/create-blank-web-starter.git"
+		"url": "git+https://github.com/Playform/create-blank-web-starter.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Playform",
 		"email": "Hello@Playform.Cloud",
-		"url": "HTTPS://Playform.Cloud"
+		"url": "https://playform.cloud"
 	},
 	"type": "module",
 	"main": "./Target/Index.js",
