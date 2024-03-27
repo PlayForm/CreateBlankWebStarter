@@ -2,11 +2,7 @@
 	"name": "create-blank-web-starter",
 	"version": "0.0.1",
 	"private": false,
-	"keywords": [
-		"create-app",
-		"astro",
-		"starter"
-	],
+	"keywords": ["create-app", "astro", "starter"],
 	"homepage": "https://github.com/Playform/create-blank-web-starter#readme",
 	"bugs": {
 		"url": "https://github.com/Playform/create-blank-web-starter/issues"
@@ -30,7 +26,7 @@
 	},
 	"devDependencies": {
 		"typescript-document": "0.0.6",
-		"typescript-esbuild": "0.4.6"
+		"typescript-esbuild": "0.4.7"
 	},
 	"publishConfig": {
 		"access": "public"
