@@ -14,7 +14,7 @@
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Playform",
-		"email": "Hello@Playform.Cloud",
+		"email": "hello@playform.cloud",
 		"url": "https://playform.cloud"
 	},
 	"type": "module",
@@ -25,8 +25,8 @@
 		"prepublishOnly": "TypeScriptESBuild 'Source/**/*.ts'"
 	},
 	"devDependencies": {
-		"typescript-document": "0.0.6",
-		"typescript-esbuild": "0.4.8"
+		"typescript-document": "0.0.7",
+		"typescript-esbuild": "0.4.9"
 	},
 	"publishConfig": {
 		"access": "public"
