@@ -2,4 +2,4 @@
 
 Create blank-web-starter for AstroJS.
 
-[Create.]: https://npmjs.org/blank-web-starter
+[Create.]: HTTPS://npmjs.org/blank-web-starter
