@@ -1,4 +1,4 @@
-# 📄 [Create.]
+# 📄 [Create.]
 
 Create blank-web-starter for AstroJS.
 
