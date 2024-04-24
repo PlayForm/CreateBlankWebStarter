@@ -5,7 +5,8 @@
 	"keywords": [
 		"create-app",
 		"astro",
-		"starter"
+		"starter",
+		"playform"
 	],
 	"homepage": "HTTPS://GitHub.Com/Playform/create-blank-web-starter#readme",
 	"bugs": {
@@ -17,7 +18,7 @@
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
-		"name": "Source/Open",
+		"name": "⛲ Source ⁄ 🚪 Open —",
 		"email": "Source/Open@Playform.Cloud",
 		"url": "HTTPS://Playform.Cloud"
 	},
