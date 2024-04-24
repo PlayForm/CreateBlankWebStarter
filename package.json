@@ -8,19 +8,19 @@
 		"starter",
 		"playform"
 	],
-	"homepage": "HTTPS://GitHub.Com/Playform/create-blank-web-starter#readme",
+	"homepage": "HTTPS://GitHub.Com/PlayForm/create-blank-web-starter#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/Playform/create-blank-web-starter/issues"
+		"url": "HTTPS://GitHub.Com/PlayForm/create-blank-web-starter/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+HTTPS://github.com/Playform/create-blank-web-starter.git"
+		"url": "git+HTTPS://github.com/PlayForm/create-blank-web-starter.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "⛲ Source ⁄ 🚪 Open —",
-		"email": "Source/Open@Playform.Cloud",
-		"url": "HTTPS://Playform.Cloud"
+		"email": "Source/Open@PlayForm.Cloud",
+		"url": "HTTPS://PlayForm.Cloud"
 	},
 	"type": "module",
 	"main": "./Target/Index.js",
