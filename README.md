@@ -1,5 +1,5 @@
-# 📄 [Create —]
+# 📄 [Create] —
 
 Create blank-web-starter for AstroJS.
 
-[Create —]: httpS://npmjs.org/blank-web-starter
+[Create]: HTTPS://npmjs.org/blank-web-starter
